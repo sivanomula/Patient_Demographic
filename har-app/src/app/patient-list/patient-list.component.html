@@ -1,0 +1,25 @@
+<div class="container">
+    <button type="button" class="btn btn-primary" (click)="AddNew()">ADD</button>
+  <table class="table table-dark table-hover table-striped">
+    <thead class="thead-light">
+      <tr>
+        <th>forenames</th>
+        <th>surname</th>        
+        <th>gender</th>        
+        <th>dateofBirth</th>        
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let patient of patients"
+       [class.selected]="patient === selectedPatient"   role="button"     (click)="onSelect(patient)">
+        <td>{{patient.forenames}}</td>
+        <td>{{patient.surname}}</td>
+        <td>{{patient.gender}}</td>
+        <td>{{patient.dateofBirth| date}}</td>
+        
+      </tr>
+      
+    </tbody>
+  </table>
+  <app-patient [patient]="selectedPatient" (patientadd)="getPatients()"></app-patient>
+</div>

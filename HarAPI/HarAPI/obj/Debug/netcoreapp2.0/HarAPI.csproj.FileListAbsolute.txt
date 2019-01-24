@@ -1,0 +1,11 @@
+D:\Learn\CodingPractice\HarAPI\HarAPI\bin\Debug\netcoreapp2.0\HarAPI.deps.json
+D:\Learn\CodingPractice\HarAPI\HarAPI\bin\Debug\netcoreapp2.0\HarAPI.runtimeconfig.json
+D:\Learn\CodingPractice\HarAPI\HarAPI\bin\Debug\netcoreapp2.0\HarAPI.runtimeconfig.dev.json
+D:\Learn\CodingPractice\HarAPI\HarAPI\bin\Debug\netcoreapp2.0\HarAPI.dll
+D:\Learn\CodingPractice\HarAPI\HarAPI\bin\Debug\netcoreapp2.0\HarAPI.pdb
+D:\Learn\CodingPractice\HarAPI\HarAPI\obj\Debug\netcoreapp2.0\HarAPI.csproj.CoreCompileInputs.cache
+D:\Learn\CodingPractice\HarAPI\HarAPI\obj\Debug\netcoreapp2.0\HarAPI.AssemblyInfoInputs.cache
+D:\Learn\CodingPractice\HarAPI\HarAPI\obj\Debug\netcoreapp2.0\HarAPI.AssemblyInfo.cs
+D:\Learn\CodingPractice\HarAPI\HarAPI\obj\Debug\netcoreapp2.0\HarAPI.dll
+D:\Learn\CodingPractice\HarAPI\HarAPI\obj\Debug\netcoreapp2.0\HarAPI.pdb
+D:\Learn\CodingPractice\HarAPI\HarAPI\obj\Debug\netcoreapp2.0\HarAPI.csprojAssemblyReference.cache

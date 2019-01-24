@@ -1,0 +1,34 @@
+<div *ngIf="patient">
+
+  <h2>{{patient.name | uppercase}} Details</h2>
+  <div><span>id: </span>{{patient.id}}</div>
+  <div>
+    <div class="row form-group">
+      <label class="col-sm-3 control-label">Forenames:
+      </label>
+      <input [(ngModel)]="patient.forenames" class="col-sm-4 form-control" placeholder="Forenames" />
+    </div>
+    <div class="row form-group">
+      <label class="col-sm-3 control-label">Surname:
+      </label>
+      <input [(ngModel)]="patient.surname" class="col-sm-4 form-control" placeholder="surname" />
+    </div>
+    <div class="row form-group">
+      <label class="col-sm-3 control-label">Gender:
+      </label>
+      <input [(ngModel)]="patient.gender" class="col-sm-4 form-control" placeholder="gender" />
+    </div>
+    <div class="row form-group">
+      <label class="col-sm-3 control-label">Date of Birth:
+      </label>
+      <input type="date" class="col-sm-4 form-control" [(ngModel)]="patient.dateofBirth" placeholder="dateofBirth" />
+    </div>
+    <div *ngFor="let phone of patient.telephonenumbers" class="row form-group">
+      <label class="col-sm-3 control-label">{{phone.type}}:
+      </label>
+      <input [(ngModel)]="phone.number" placeholder="phone.phoneType" class="col-sm-4 form-control" />
+    </div>
+  </div>
+  <button (click)="save()">save</button>
+
+</div>

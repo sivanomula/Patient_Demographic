@@ -1,0 +1,17 @@
+D:\Learn\CodingPractice\HarAPI\HarAPITest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Learn\CodingPractice\HarAPI\HarAPITest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Learn\CodingPractice\HarAPI\HarAPITest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Learn\CodingPractice\HarAPI\HarAPITest\bin\Debug\netcoreapp2.0\HarAPITest.deps.json
+D:\Learn\CodingPractice\HarAPI\HarAPITest\bin\Debug\netcoreapp2.0\HarAPITest.runtimeconfig.json
+D:\Learn\CodingPractice\HarAPI\HarAPITest\bin\Debug\netcoreapp2.0\HarAPITest.runtimeconfig.dev.json
+D:\Learn\CodingPractice\HarAPI\HarAPITest\bin\Debug\netcoreapp2.0\HarAPITest.dll
+D:\Learn\CodingPractice\HarAPI\HarAPITest\obj\Debug\netcoreapp2.0\HarAPITest.csprojAssemblyReference.cache
+D:\Learn\CodingPractice\HarAPI\HarAPITest\obj\Debug\netcoreapp2.0\HarAPITest.csproj.CoreCompileInputs.cache
+D:\Learn\CodingPractice\HarAPI\HarAPITest\obj\Debug\netcoreapp2.0\HarAPITest.AssemblyInfoInputs.cache
+D:\Learn\CodingPractice\HarAPI\HarAPITest\obj\Debug\netcoreapp2.0\HarAPITest.AssemblyInfo.cs
+D:\Learn\CodingPractice\HarAPI\HarAPITest\bin\Debug\netcoreapp2.0\HarAPITest.pdb
+D:\Learn\CodingPractice\HarAPI\HarAPITest\bin\Debug\netcoreapp2.0\HarAPI.dll
+D:\Learn\CodingPractice\HarAPI\HarAPITest\bin\Debug\netcoreapp2.0\HarAPI.pdb
+D:\Learn\CodingPractice\HarAPI\HarAPITest\obj\Debug\netcoreapp2.0\HarAPITest.csproj.CopyComplete
+D:\Learn\CodingPractice\HarAPI\HarAPITest\obj\Debug\netcoreapp2.0\HarAPITest.dll
+D:\Learn\CodingPractice\HarAPI\HarAPITest\obj\Debug\netcoreapp2.0\HarAPITest.pdb
